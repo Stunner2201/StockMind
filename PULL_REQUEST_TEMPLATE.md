@@ -53,6 +53,8 @@ Closes #1 (Implement User Authentication System)
 
 Please attach relevant screenshots for UI changes or important functionality changes.
 
+![image alt](https://github.com/Stunner2201/StockMind/blob/3e797b87c17cdcb20df9d9bebfedb8781691119d/Screenshot%202025-05-11%20140814.png)
+
 
 ---
 
