@@ -15,7 +15,7 @@ Password security
 
 Error handling and user feedback
 
-Key Features Implemented:
+# Key Features Implemented:
 Complete registration flow with username, email, and password
 
 Secure login system with session management
@@ -52,6 +52,7 @@ Closes #1 (Implement User Authentication System)
 ## 📸 Screenshots (if applicable)
 
 Please attach relevant screenshots for UI changes or important functionality changes.
+
 
 ---
 
