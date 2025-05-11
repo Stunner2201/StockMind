@@ -51,10 +51,12 @@ Closes #1 (Implement User Authentication System)
 
 ## 📸 Screenshots (if applicable)
 
-Please attach relevant screenshots for UI changes or important functionality changes.
+Home Page with login button feature.
 
 ![image alt](https://github.com/Stunner2201/StockMind/blob/3e797b87c17cdcb20df9d9bebfedb8781691119d/Screenshot%202025-05-11%20140814.png)
 
+LoginPage
+![image alt](https://github.com/Stunner2201/StockMind/blob/9bbd1d41f7ae7471fcacbae1c7bd957f8ff1d70e/Screenshot%202025-05-11%20141451.png)
 
 ---
 
