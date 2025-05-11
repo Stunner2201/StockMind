@@ -55,9 +55,15 @@ Home Page with login button feature.
 
 ![image alt](https://github.com/Stunner2201/StockMind/blob/3e797b87c17cdcb20df9d9bebfedb8781691119d/Screenshot%202025-05-11%20140814.png)
 
+
+
 LoginPage
 ![image alt](https://github.com/Stunner2201/StockMind/blob/9bbd1d41f7ae7471fcacbae1c7bd957f8ff1d70e/Screenshot%202025-05-11%20141451.png)
 
+
+
+RegisterPage
+![image alt](https://github.com/Stunner2201/StockMind/blob/70bb51c9a986c04b6048a8aa6f4971d964e818dd/Screenshot%202025-05-11%20141713.png)
 ---
 
 ## 💬 Additional Notes
