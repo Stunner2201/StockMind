@@ -19,8 +19,8 @@ login_manager = LoginManager()
 EMAIL_REGEX = re.compile(r'^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$')
 
 # Load API keys 
-GEMINI_API_KEY = "AIzaSyCQIRzhQBS5hIlL3QrzUWEaQdW86F2ZseY"  # GeminiAPIKey 
-ALPHA_VANTAGE_API_KEY = "P7NSZR3YKC5ONTPS"  # AlphaVantageAPIKey 
+GEMINI_API_KEY = "your_gemini_apikey"  # GeminiAPIKey 
+ALPHA_VANTAGE_API_KEY = "your_alpha_vantage_apikey"  # AlphaVantageAPIKey 
 client = genai.Client(api_key=GEMINI_API_KEY)
 
 app = Flask(__name__, static_folder="static", template_folder="templates")
